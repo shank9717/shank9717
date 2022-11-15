@@ -23,8 +23,6 @@
 ### Connect with me:
 
 [<img align="left" padding="5px" alt="Shashank Ullas | LinkedIn" width="22px" src="https://raw.githubusercontent.com/shank9717/shank9717/master/assets/linkedin.png" />][linkedin]
-[<img align="left" padding="5px" alt="shank9717 | Reddit" width="22px" src="https://raw.githubusercontent.com/shank9717/shank9717/master/assets/reddit.png" />][reddit]
-[<img align="left" padding="5px" alt="shank9717 | Instagram" width="22px" src="https://raw.githubusercontent.com/shank9717/shank9717/master/assets/instagram.png" />][instagram]
 
 <br/>
 
